@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4620a53da4ca769d4a2bbc9a2e7d8e78.js"
+  "/precache-manifest.ca6edc2f1a95139c01a31813debda2c4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "app-questionnaire-vue"});
